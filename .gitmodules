@@ -1,0 +1,6 @@
+[submodule "Mission"]
+	path = Mission
+	url = /Users/regiepinat/TestingSubmodule/Mission.git
+[submodule "Quest"]
+	path = Quest
+	url = /Users/regiepinat/TestingSubmodule/Quest.git
